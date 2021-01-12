@@ -1,0 +1,21 @@
+{
+  "name": "rozi-chat",
+  "version": "1.0.0",
+  "description": "aplikasi chatting menggunakan epress, socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "socket.io",
+    "heroku"
+  ],
+  "author": "muhammad fachrurrozi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.5"
+  }
+}
