@@ -1,5 +1,5 @@
 {
-  "name": "rozi-chat",
+  "name": "suluh-chat",
   "version": "1.0.0",
   "description": "aplikasi chatting menggunakan epress, socket.io",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "socket.io",
     "heroku"
   ],
-  "author": "muhammad fachrurrozi",
+  "author": "suluhaw",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
